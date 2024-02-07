@@ -1,2 +1,1 @@
-# Library-Management-System
-A Library Management System using Java and SQL
+Developed a comprehensive Library Management System (LMS) application using Java, MySQL, and XML technologies. The system provides a user-friendly interface for managing staff details, book inventory, and administrative tasks within a library environment. The project encompasses multiple components, including backend database management, frontend user interface design, and build automation.

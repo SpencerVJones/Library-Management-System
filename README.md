@@ -11,7 +11,7 @@ This Java-based Library Management System provides functionalities for managing 
 - Java
 - Swing (GUI Toolkit)
 - MySQL
-## Usage:
+## How to Use:
 1. Clone the Repository:
 - git clone https://github.com/yourusername/library-management-system.git
 2. Set Up MySQL Database:

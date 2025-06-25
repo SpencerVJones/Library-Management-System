@@ -1,4 +1,8 @@
 # Library Management System
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Library-Management-System)
+</div>
 This Java-based Library Management System provides functionalities for managing books, staff, and administrative tasks within a library environment.
 
 ## Features:
